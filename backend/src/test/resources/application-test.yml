@@ -1,0 +1,11 @@
+spring:
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: none
+  flyway:
+    enabled: true
+
+app:
+  telemetry:
+    scheduling-enabled: false

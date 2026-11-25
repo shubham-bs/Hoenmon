@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hem_background">#0B1016</color>
+    <color name="hem_surface">#141B24</color>
+    <color name="hem_primary">#4ADE80</color>
+    <color name="hem_on_primary">#062012</color>
+</resources>

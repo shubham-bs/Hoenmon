@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.HomeEnergyMonitor" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/hem_background</item>
+        <item name="android:colorBackground">@color/hem_background</item>
+        <item name="android:statusBarColor">@color/hem_background</item>
+        <item name="android:navigationBarColor">@color/hem_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
